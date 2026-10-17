@@ -1,4 +1,4 @@
 [
-  {"id": "ethereum", "above": 1},
-  {"id": "solana", "above": 1}
+  {"id": "ethereum", "above": 2},
+  {"id": "solana", "above": 2}
 ]
