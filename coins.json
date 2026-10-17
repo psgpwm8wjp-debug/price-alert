@@ -1,0 +1,4 @@
+[
+  {"id": "ethereum", "above": 4000},
+  {"id": "solana", "above": 250, "below": 120}
+]
